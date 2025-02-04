@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Fernweh",
+	"author": "Doğanay Tiringa",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
